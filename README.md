@@ -2,8 +2,20 @@
 
 
 Hey, I’m Lou 👋 <br>
-Junior Software Engineer 💻 
-- Bournemouth / London
+Junior Software Engineer 💻 <br>
+Bournemouth / London
+
+- CFG Web Dev 
+- CFG Degree in Software Engineering 
+- Keen interest in Networking in the future
+
+## Things I code with: 
+![python](https://img.shields.io/pypi/pyversions/p)
+
+## Spare Time
+
+- Walking
+- Dogs
 
 
 <!---
