@@ -7,9 +7,9 @@ Bournemouth / London
 
 - CFG Web Dev 
 - CFG Degree in Software Engineering 
-- Keen interest in Networking in the future
+- Keen interest in Networking 
 
-## Things I code with: 
+## Languages: 
 ![python](https://img.shields.io/pypi/pyversions/p)
 
 ## Spare Time
