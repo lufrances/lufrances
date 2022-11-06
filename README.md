@@ -2,7 +2,7 @@
 
 
 Hey, I’m Lou 👋 <br>
-Junior Software Engineer 💻 <br>
+Almost a Junior Software Engineer 💻 <br>
 Bournemouth / London
 
 - CFG Web Dev 
