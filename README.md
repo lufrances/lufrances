@@ -11,11 +11,6 @@ Bournemouth / London
 ## Languages: 
 ![python](https://img.shields.io/pypi/pyversions/p)
 
-## Spare Time
-
-- Walking
-- Dogs
-
 
 <!---
 lufrances/lufrances is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
