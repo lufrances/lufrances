@@ -6,8 +6,7 @@ Almost a Junior Software Engineer 💻 <br>
 Bournemouth / London
 
 - CFG Web Dev 
-- CFG Degree in Software Engineering 
-- Keen interest in Networking 
+- CFG Software Engineering 
 
 ## Languages: 
 ![python](https://img.shields.io/pypi/pyversions/p)
